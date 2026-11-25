@@ -23,7 +23,7 @@ My research and engineering interests focus on **machine learning**, **evolution
 
 - **B.Sc. in Computer Engineering** (*Ingegneria Informatica*)  
   **Department of Electrical, Electronics and Computer Engineering (DIEEI)**  
-  *University of Catania (UNICT)*, Italy *(Expected 2027)*
+  *University of Catania (UNICT)*, Italy
   - **STEM Academic Merit Award** (2026, MUR & UNICT) — *Awarded for outstanding academic ranking in Computer Engineering*.
   - **Academic Merit Study Prize** (2025, UNICT) — *Ranked 3rd across Computer Engineering cohort*.
   - **National Excellence Award** (*Albo Nazionale delle Eccellenze*, Italian Ministry of Education).
